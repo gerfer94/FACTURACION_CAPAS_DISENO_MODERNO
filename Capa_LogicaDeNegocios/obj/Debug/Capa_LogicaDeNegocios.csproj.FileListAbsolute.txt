@@ -1,0 +1,9 @@
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_Log.592EBA8F.Up2Date
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb

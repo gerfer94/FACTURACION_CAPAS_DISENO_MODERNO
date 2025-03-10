@@ -1,0 +1,6 @@
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
