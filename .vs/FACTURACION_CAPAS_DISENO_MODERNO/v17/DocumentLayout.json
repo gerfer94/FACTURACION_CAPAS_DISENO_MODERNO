@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\FACTURACION_CAPAS_DISENO_MODERNO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5DB5B7-873C-4E11-9A84-336030F6597C}|Capa_Presentacion\\Capa_Presentacion.csproj|c:\\facturacion_capas_diseno_moderno\\capa_presentacion\\menu\\facturacion\\frmlistafacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5DB5B7-873C-4E11-9A84-336030F6597C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\menu\\facturacion\\frmlistafacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5DB5B7-873C-4E11-9A84-336030F6597C}|Capa_Presentacion\\Capa_Presentacion.csproj|c:\\facturacion_capas_diseno_moderno\\capa_presentacion\\menu\\facturacion\\frmlistafacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E5DB5B7-873C-4E11-9A84-336030F6597C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\menu\\facturacion\\frmlistafacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListaFacturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\FACTURACION_CAPAS_DISENO_MODERNO\\Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs",
+              "ToolTip": "C:\\FACTURACION_CAPAS_DISENO_MODERNO\\Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:26:03.708Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListaFacturas.cs",
+              "DocumentMoniker": "C:\\FACTURACION_CAPAS_DISENO_MODERNO\\Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs",
+              "ToolTip": "C:\\FACTURACION_CAPAS_DISENO_MODERNO\\Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs",
+              "RelativeToolTip": "Capa_Presentacion\\Menu\\Facturacion\\frmListaFacturas.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:23:38.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

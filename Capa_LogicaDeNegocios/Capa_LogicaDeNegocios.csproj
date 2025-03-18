@@ -42,6 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cls_AdminSeguridad.cs" />
+    <Compile Include="Cls_Facturas.cs" />
+    <Compile Include="Cls_Productos.cs" />
+    <Compile Include="Cls_Cliente.cs" />
     <Compile Include="Cls_Empleados.cs" />
     <Compile Include="Validar_Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

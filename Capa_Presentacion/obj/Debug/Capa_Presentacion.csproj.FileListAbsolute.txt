@@ -15,3 +15,4 @@ C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_Presentacion\obj\Debug\Capa_Presentacio
 C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
 C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_Presentacion\obj\Debug\Capa_Presentacion.FormPrincipal.resources
 C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_Presentacion\obj\Debug\Capa_Presentacion.Menu.Seguridad.frmListaAdminSeguridad.resources
+C:\FACTURACION_CAPAS_DISENO_MODERNO\Capa_Presentacion\obj\Debug\Capa_Presentacion.Menu.Ayuda.frmAcercaDe.resources

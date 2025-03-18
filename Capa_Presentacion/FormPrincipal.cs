@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
-//using Capa_Presentacion.Forms.Tablas;
-//using Capa_Presentacion.Forms.Ayuda;
-//using Capa_Presentacion.Forms.Facturacion;
 using Capa_Presentacion.Menu.Seguridad;
+using Capa_Presentacion.Menu.Tablas;
+using Capa_Presentacion.Menu.Facturacion;
+using Capa_Presentacion.Menu.Ayuda;
+
 
 namespace Capa_Presentacion
 {
@@ -64,15 +65,15 @@ namespace Capa_Presentacion
         private void btnClientes_Click(object sender, EventArgs e)
         {
             SubmenuTablas.Visible = false;
-            //frmListaClientes listaClientes = new frmListaClientes();
-            //AbrirFormularioEnPanel(listaClientes);
+            frmListaClientes listaClientes = new frmListaClientes();
+            AbrirFormularioEnPanel(listaClientes);
         }
 
         private void btnProductos_Click(object sender, EventArgs e)
         {
             SubmenuTablas.Visible = false;
-            //frmListaProductos listaProductos = new frmListaProductos();
-            //AbrirFormularioEnPanel(listaProductos);
+            frmListaProductos listaProductos = new frmListaProductos();
+            AbrirFormularioEnPanel(listaProductos);
         }
 
         private void btnCategorias_Click(object sender, EventArgs e)
@@ -90,8 +91,8 @@ namespace Capa_Presentacion
         private void btnFacturas_Click(object sender, EventArgs e)
         {
             SubmenuFacturacion.Visible = false;
-            //frmListaFacturas listaFacturas = new frmListaFacturas();
-            //AbrirFormularioEnPanel(listaFacturas);
+            frmListaFacturas listaFacturas = new frmListaFacturas();
+            AbrirFormularioEnPanel(listaFacturas);
         }
 
         private void btnInformes_Click(object sender, EventArgs e)
@@ -131,15 +132,15 @@ namespace Capa_Presentacion
         private void btnAyuda_Click(object sender, EventArgs e)
         {
             SubmenuAyuda.Visible = false;
-            //frmAyuda ayuda = new frmAyuda();
-            //AbrirFormularioEnPanel(ayuda);
+            frmAyuda ayuda = new frmAyuda();
+            AbrirFormularioEnPanel(ayuda);
         }
 
         private void btnAcercade_Click(object sender, EventArgs e)
         {
             SubmenuAyuda.Visible = false;
-            //frmAcercaDe acercaDe = new frmAcercaDe();
-            //AbrirFormularioEnPanel(acercaDe);
+            frmAcercaDe acercaDe = new frmAcercaDe();
+            AbrirFormularioEnPanel(acercaDe);
         }
 
         private void AbrirFormularioEnPanel(Form formulario)

@@ -58,6 +58,30 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Menu\Ayuda\frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Ayuda\frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Ayuda\frmAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Ayuda\frmAyuda.Designer.cs">
+      <DependentUpon>frmAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Facturacion\frmCRUDFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Facturacion\frmCRUDFacturas.Designer.cs">
+      <DependentUpon>frmCRUDFacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Facturacion\frmListaFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Facturacion\frmListaFacturas.Designer.cs">
+      <DependentUpon>frmListaFacturas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu\Seguridad\frmCRUDAdminSeguridad.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +106,42 @@
     <Compile Include="Menu\Seguridad\frmListaEmpleados.Designer.cs">
       <DependentUpon>frmListaEmpleados.cs</DependentUpon>
     </Compile>
+    <Compile Include="Menu\Tablas\frmCRUDCategoriaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmCRUDCategoriaProductos.Designer.cs">
+      <DependentUpon>frmCRUDCategoriaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmCRUDCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmCRUDCliente.Designer.cs">
+      <DependentUpon>frmCRUDCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmCRUDProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmCRUDProductos.Designer.cs">
+      <DependentUpon>frmCRUDProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmListaCategoriaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmListaCategoriaProductos.Designer.cs">
+      <DependentUpon>frmListaCategoriaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmListaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmListaCliente.Designer.cs">
+      <DependentUpon>frmListaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmListaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Tablas\frmListaProductos.Designer.cs">
+      <DependentUpon>frmListaProductos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormPrincipal.resx">
@@ -89,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Ayuda\frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu\Seguridad\frmListaAdminSeguridad.resx">
       <DependentUpon>frmListaAdminSeguridad.cs</DependentUpon>
